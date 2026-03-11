@@ -1,1 +1,1 @@
-# kipu-training-game
+# Kipu Training Game
